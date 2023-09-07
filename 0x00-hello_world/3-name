@@ -1,1 +1,2 @@
-#!$CFILE -o cisfun
+#!/bin/bash
+$CFILE -o cisfun
