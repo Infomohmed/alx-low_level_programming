@@ -2,12 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point
+*main - Prints the alphabet.
  *
- * Description: last digit
- *
- * Return : 0 (success)
- */
+ * Return: Always 0 (success)
+*/
 int main(void)
 {
 int n, m;
@@ -29,4 +27,4 @@ printf("Last digit of %d is %d and is 0\n", n, m);
 }
 return (0);
 }
-sh: 1: q: not found
+
