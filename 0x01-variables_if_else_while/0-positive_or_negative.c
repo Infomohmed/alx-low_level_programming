@@ -2,12 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main -that is function 
-*Return:always 0 (success)
+*main - Prints the alphabet.
+ *
+ * Return: Always 0 (success)
 */
-/*more headers goes there */
-
-/*betty style doc for function main goes there */
 int main(void)
 {
 	int n;
