@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints numbers from 0 to 9.
- * *
- * Return: Always 0 (Success)
- */
+* main - prints all possible combinations of single-digit numbers
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 int n;
@@ -13,7 +12,7 @@ putchar(n);
 if (n != 57 )
 {
 putchar(',');
-putchar('');
+putchar(' ');
 }
 
 }
