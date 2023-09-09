@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** 
+/**
+ * main is function 
 *Return:always 0 (success)
 */
 /*more headers goes there */
