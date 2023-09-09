@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main -this is the main function 
+ *main -this is  function 
 *Return:always 0(success)
 */
 /*more headers goes there */
@@ -10,7 +10,7 @@
 /*betty style doc for function main goes there */
 int main(void)
 {
-	int n ;
+	int n;
 
 	srand(time(0));
 n = rand() - RAND_MAX / 2;
