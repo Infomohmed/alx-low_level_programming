@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - that  is function 
+ *main -that is function 
 *Return:always 0 (success)
 */
 /*more headers goes there */
