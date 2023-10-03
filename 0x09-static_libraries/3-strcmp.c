@@ -4,12 +4,11 @@
 #include <ctype.h>
 #include <string.h>
 /**
-* _strncpy - copy a string
-* @dest: input value
-* @src: input value
-* @n: input value
+* _strcmp - compare string values
+* @s1: input value
+* @s2: input value
 *
-* Return: dest
+* Return: s1[i] - s2[i]
 */
 
 int _strcmp(char *s1, char *s2)
